@@ -1,2 +1,1 @@
-fs.rename(path1, path2, [callback]),fs.renameSync(path1, path2)
-  重命名某个文件,前者异步调用，后者同步调用。除非回调函数执行过程出现了异常，否则不会传递任何参数。 例如：
+ke sure you have Leiningen installed. Then install dependencies with
